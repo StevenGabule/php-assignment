@@ -1,0 +1,15 @@
+{
+  "Laravel" : "frLaravel",
+  "Name": "Nom",
+  "E-Mail Address": "Adresse e-mail",
+  "Email": "e-mail",
+  "Phone Number": "Numéro de téléphone",
+  "Employees": "Des employés",
+  "Password": "le mot de passe",
+  "Companies": "Entreprises",
+  "companies": "entreprises",
+  "employee": "employé",
+  "Companies List":  "Liste des entreprises",
+  "Address": "Adresse",
+  "Website": "site Internet"
+}
